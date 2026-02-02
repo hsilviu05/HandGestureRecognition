@@ -1,0 +1,28 @@
+# Python - fisiere compilate
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mediul Virtual (FOARTE IMPORTANT)
+.venv/
+venv/
+ENV/
+
+# macOS - fisiere de sistem
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Baza de date 
+*.db
+*.sqlite3
+
+# VS Code - setari locale
+.vscode/
+
+# MediaPipe / Modele mari (Optional, daca vrei sa le descarce utilizatorul singur)
+# *.task
+
+# Fisiere log si temporare
+*.log
+.DS_Store
